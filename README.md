@@ -14,7 +14,7 @@ This VBA script hides rows for email addresses not included in your specified do
      - `'magicmail.net'`
      - `@example.com`
 
-3. **Add the VBA Code (script.bas):**
+3. **Add the VBA Code (copy the code from script.bas):**
    - Open the VBA editor (Alt + F11).
    - Insert a new module (Insert > Module).
    - Copy and paste the provided VBA code into the module.
